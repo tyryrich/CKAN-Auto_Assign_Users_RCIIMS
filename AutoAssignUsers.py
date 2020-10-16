@@ -2,8 +2,8 @@ from ckanapi import RemoteCKAN
 
 ### Set Authentication Information ### 
 
-CKAN_URL = 'http://app5.erg.com/'
-CKAN_APIKEY = '294813e2-2690-4967-9dd3-313c26e27f93'
+CKAN_URL = '' #e.g. https://demo.ckan.org/
+CKAN_APIKEY = '' #e.g. '294813e2-2690-4967-9dd3-313c26e27f93'
 
 ### Remote Connect to CKAN ###
 
