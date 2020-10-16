@@ -3,7 +3,7 @@ from ckanapi import RemoteCKAN
 ### Set Authentication Information ### 
 
 CKAN_URL = '' #e.g. https://demo.ckan.org/
-CKAN_APIKEY = '' #e.g. '294813e2-2690-4967-9dd3-313c26e27f93'
+CKAN_APIKEY = '' #e.g. 'a5b2d246-8aa1-4cfc-a691-30483a74a325'
 
 ### Remote Connect to CKAN ###
 
