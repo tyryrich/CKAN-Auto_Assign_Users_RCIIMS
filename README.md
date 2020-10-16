@@ -1,5 +1,5 @@
 # CKAN-Auto_Assign_Users_RCIIMS
-AutoAssignUsers.py automatically assigns new users to become editors of Groups (Topics) and the RCIIMS organization. Setting up a cron job to automatically execute this process once a minute will allow new users to quickly start creating private datasets without requiring an admin the add the new users to Groups and RCIIMS organization themselves.
+AutoAssignUsers.py automatically assigns new users to become editors of Groups (Topics) and the RCIIMS organization. Setting up a cron job to automatically execute this process once a minute will allow new users to quickly start creating private datasets without requiring an admin to add the new users to Groups and RCIIMS organization themselves.
 
 ## Steps to set up process
 <b>1)</b> Activate your CKAN virtual environment by running ". /usr/lib/ckan/default/bin/activate" on the command prompt.<br><br>
